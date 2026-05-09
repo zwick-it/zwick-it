@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @zwick-it
-- 👀 I’m interested in ... github
-- 🌱 I’m currently learning ...github
-- 💞️ I’m looking to collaborate on ... no one
 - 📫 How to reach me ... www.zwick-it.de
+non commercial / freeware / not for reselling
 
 <!---
 zwick-it/zwick-it is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
